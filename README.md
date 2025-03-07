@@ -85,7 +85,9 @@ A interface `IAvaliavel` define um método chamado `AvaliarDesempenho()`, que de
 A saída do programa será exibida no formato abaixo:
 
 Nome: João | Salário: R$2000,00 | Bonus: R$200,00 | Valor Total: R$2200 | Tipo: Estagiário Avaliação: Otimo
+
 Nome: Maria | Salário: R$6000,00 | Bonus: R$600,00 | Valor Total: R$6600,00 | Tipo: Desenvolvedor Avaliação: Bom
+
 Nome: José | Salário: R$10000,00 | Bonus: R$1000,00 | Valor Total: R$11000,00 | Tipo: Gerente Avaliação: Ruim
 
 
