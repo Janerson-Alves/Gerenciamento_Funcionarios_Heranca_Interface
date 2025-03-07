@@ -1,6 +1,7 @@
 ﻿namespace GerenciamentoFuncionarios.Modelos;
+using GerenciamentoFuncionarios.Interfaces;
 
-public class Desenvolvedor : Funcionario
+public class Desenvolvedor : Funcionario, IAvaliacaoFuncionarios
 {
     public Desenvolvedor(string nome, double salario) : base(nome, salario)
     {

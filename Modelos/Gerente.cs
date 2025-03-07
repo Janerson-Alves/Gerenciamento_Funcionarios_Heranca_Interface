@@ -1,6 +1,7 @@
-﻿namespace GerenciamentoFuncionarios.Modelos;
+﻿using GerenciamentoFuncionarios.Interfaces;
+namespace GerenciamentoFuncionarios.Modelos;
 
-public class Gerente : Funcionario
+public class Gerente : Funcionario, IAvaliacaoFuncionarios
 {
     public Gerente(string nome, double salario) : base(nome, salario)
     {
