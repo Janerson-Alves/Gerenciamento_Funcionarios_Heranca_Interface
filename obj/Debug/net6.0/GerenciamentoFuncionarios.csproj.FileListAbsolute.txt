@@ -1,0 +1,14 @@
+D:\.Net Alura\Exercicios GPT\GerenciamentoFuncionarios\GerenciamentoFuncionarios\bin\Debug\net6.0\GerenciamentoFuncionarios.exe
+D:\.Net Alura\Exercicios GPT\GerenciamentoFuncionarios\GerenciamentoFuncionarios\bin\Debug\net6.0\GerenciamentoFuncionarios.deps.json
+D:\.Net Alura\Exercicios GPT\GerenciamentoFuncionarios\GerenciamentoFuncionarios\bin\Debug\net6.0\GerenciamentoFuncionarios.runtimeconfig.json
+D:\.Net Alura\Exercicios GPT\GerenciamentoFuncionarios\GerenciamentoFuncionarios\bin\Debug\net6.0\GerenciamentoFuncionarios.dll
+D:\.Net Alura\Exercicios GPT\GerenciamentoFuncionarios\GerenciamentoFuncionarios\bin\Debug\net6.0\GerenciamentoFuncionarios.pdb
+D:\.Net Alura\Exercicios GPT\GerenciamentoFuncionarios\GerenciamentoFuncionarios\obj\Debug\net6.0\GerenciamentoFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Alura\Exercicios GPT\GerenciamentoFuncionarios\GerenciamentoFuncionarios\obj\Debug\net6.0\GerenciamentoFuncionarios.AssemblyInfoInputs.cache
+D:\.Net Alura\Exercicios GPT\GerenciamentoFuncionarios\GerenciamentoFuncionarios\obj\Debug\net6.0\GerenciamentoFuncionarios.AssemblyInfo.cs
+D:\.Net Alura\Exercicios GPT\GerenciamentoFuncionarios\GerenciamentoFuncionarios\obj\Debug\net6.0\GerenciamentoFuncionarios.csproj.CoreCompileInputs.cache
+D:\.Net Alura\Exercicios GPT\GerenciamentoFuncionarios\GerenciamentoFuncionarios\obj\Debug\net6.0\GerenciamentoFuncionarios.dll
+D:\.Net Alura\Exercicios GPT\GerenciamentoFuncionarios\GerenciamentoFuncionarios\obj\Debug\net6.0\refint\GerenciamentoFuncionarios.dll
+D:\.Net Alura\Exercicios GPT\GerenciamentoFuncionarios\GerenciamentoFuncionarios\obj\Debug\net6.0\GerenciamentoFuncionarios.pdb
+D:\.Net Alura\Exercicios GPT\GerenciamentoFuncionarios\GerenciamentoFuncionarios\obj\Debug\net6.0\GerenciamentoFuncionarios.genruntimeconfig.cache
+D:\.Net Alura\Exercicios GPT\GerenciamentoFuncionarios\GerenciamentoFuncionarios\obj\Debug\net6.0\ref\GerenciamentoFuncionarios.dll
