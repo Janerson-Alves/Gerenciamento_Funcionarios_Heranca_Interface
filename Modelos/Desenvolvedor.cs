@@ -22,7 +22,7 @@ public class Desenvolvedor : Funcionario
     public override string ToString()
     {
         return $"Nome: {Nome} | Salário: R${Salario:F2} | Bonus: R${CalcularBonus():F2} | Valor Total: R${Salario + CalcularBonus():F2} | Tipo: Desenvolvedor" +
-            $" Avaliação: {Avaliacao}";
+            $" | Avaliação: {Avaliacao}";
     }
 
 }
